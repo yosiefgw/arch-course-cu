@@ -1,2 +1,7 @@
 **/sol/**.DS_Store
 .idea/
+# macOS system files
+.DS_Store
+**/.DS_Store
+lecture-8/.DS_Store
+lecture-8/submissions/.DS_Store
